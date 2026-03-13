@@ -74,7 +74,7 @@ header.primary {
 
 header.primary::before {
   content: "";
-  background-image: url(../img/mars-rover.webp);
+  background-image: url(mars-rover.webp);
   background-position: center;
   background-size: cover;
   position: absolute;
